@@ -1,0 +1,75 @@
+"JSON_Cliente":[
+
+    {
+        "Cedula":"1350376560",
+        "Apellido":"Blondet Intriago",
+        "Nombre":"Vianny Darel",
+        "Direccion":"Manta",
+        "Telefono":"0968581680"
+    },
+    {
+        "Cedula":"1307690170",
+        "Apellido":"Blondet Molina",
+        "Nombre":"Vianny Vicente",
+        "Direccion":"Portoviejo",
+        "Telefono":"0984884499"
+    },
+    {
+        "Cedula":"1308267267",
+        "Apellido":"Intriago Parraga",
+        "Nombre":"Maria Cecilia",
+        "Direccion":"Manta",
+        "Telefono":"0968587458"  
+    },
+    {
+        "Cedula":"1351478452",
+        "Apellido":"Muentes Murrillo",
+        "Nombre":"Luis David",
+        "Direccion":"Jipijapa",
+        "Telefono":"0967485412"
+    },
+    {
+        "Cedula":"1314569874",
+        "Apellido":"Baque Lopez",
+        "Nombre":"Dayanna Nicole",
+        "Direccion":"Manta",
+        "Telefono":"098574896"
+    },
+    {
+        "Cedula":"1347896854",
+        "Apellido":"Saltos Ponce",
+        "Nombre":"Jose David",
+        "Direccion":"Jaramijo",
+        "Telefono":"096541253"
+    },
+    {
+        "Cedula":"1369857485",
+        "Apellido":"Rodas Montalvan",
+        "Nombre":"Andres Miguel",
+        "Direccion":"Manta",
+        "Telefono":"0968541231"
+    },
+    {
+        "Cedula":"1354127895",
+        "Apellido":"Vera Morales",
+        "Nombre":"Jose Miguel",
+        "Direccion":"Manta",
+        "Telefono":"0965232145"
+    },
+    {
+        "Cedula":"1354789652",
+        "Apellido":"Macias Macias",
+        "Nombre":"Maria Victoria",
+        "Direccion":"Manta",
+        "Telefono":"1342569874"
+    },
+    
+     {
+        "Cedula":"1345698562",
+        "Apellido":"Mendoza Macias",
+        "Nombre":"Ana Maria",
+        "Direccion":"Manta",
+        "Telefono":"0985652314"
+      }
+    ]
+    }
