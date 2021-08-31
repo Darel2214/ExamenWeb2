@@ -1,0 +1,15 @@
+/*Vianny Darel Blondet Intriago 5to A*/
+    const {cedula,apellidos,nombres,direccion,telefono,email,date} = req.body;
+
+        const date = new Date();
+       
+            database.query('INSERT INTO mp_cedula SET ?', 
+            {  
+                cedula: cedula,
+                user_apellidos: apellidos,
+                user_nombres: primernombre,
+                user_direccion: direccion,
+                user_telef: telefono,
+                user_email: email,
+                user_date:date
+    }
